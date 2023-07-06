@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DecorDash</string>
+    <string name="rightAddress">The Right Address\nFor Shopping\nAnyday</string>
+    <string name="qulity">It is now very easy to reach the\nbest quality among the\nproducts on the internet!</string>
+    <string name="tag_log_in">Do you have an account? <u><b>Log In</b></u></string>
+    <string name="tag_register">Don\'t have an account? <u><b>Register</b></u></string>
+</resources>
